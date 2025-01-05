@@ -1,5 +1,5 @@
 <div align= "center">
-   <Typing SVG = "https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text, https://git.io/typing-svg />
+
    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Persona%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
    </div>
    <div style="text-align: left;"> 
