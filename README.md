@@ -1,6 +1,5 @@
 <div align= "center">
-
-   <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=Persona%20Code%20Farm&animation=fadeIn&fontColor=9edb1a&fontSize=60" />
+   <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
    </div>
    <div style="text-align: left;"> 
    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
