@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2653,100:d4e8e6&height=120&text=Persona%20Code%20World&animation=twinkling&fontColor=c4cbe9&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Oz Back-end 수련생 장태문 </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Back-end 장태문 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 새로운 발상을 꾸준히 시도하는 개발자 입니다. </div> 
     </div>
     <div align= "center">
