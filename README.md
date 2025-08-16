@@ -74,5 +74,5 @@
 </p>
 
 
-https://github.com/user-attachments/assets/68fb4726-ff49-4d19-99d0-da705f587c10
+[▶️ Corridor of Moonlight (작은 플레이어)](https://<USER>.github.io/<REPO>/)
 
