@@ -4,15 +4,15 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h2 align="center">🤖 About</h2>
+<h1 align="center">🤖 About</h1>
 
-<p align="center"><b>Back-end Engineer 🌸 | Jang Tae-mun</b></p>
-<p align="center">저는 새로운 발상을 꾸준히 시도하는 개발자 입니다.</p>
+<h2 align="center"><b>Back-end Engineer 🌸 | Jang Tae-mun</b></h2>
+<h3 align="center">저는 새로운 발상을 꾸준히 시도하는 개발자 입니다.</h3>
 <p align="center">I'm a backend developer who consistently experiments with new ideas.</p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h2 align="center">🧰 Main Tech Stack</h2>
+<h1 align="center">🧰 Main Tech Stack</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="48" title="Django"/>
@@ -24,7 +24,7 @@
   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" height="48" title="Discord"/>
 </p>
 
-<h2 align="center">🧪 Sub Tech Stack</h2>
+<h1 align="center">🧪 Sub Tech Stack</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" title="Spring"/>
@@ -38,18 +38,18 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h2 align="center">📟 Stats</h2>
+<h1 align="center">📟 Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&theme=tokyonight" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=persona7586&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=persona7586&theme=tokyonight" height="165">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&theme=tokyonight" height="160">
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h2 align="center">📬 Contact</h2>
+<h1 align="center">📬 Contact</h1>
 <p align="center">
   <a href="mailto:rhffkfk@naver.com">
     <img alt="Naver Email"
