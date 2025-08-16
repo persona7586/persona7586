@@ -1,0 +1,26 @@
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" role="img" aria-label="footer">
+  <defs>
+    <linearGradient id="footerBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#0b1020"/>
+    </linearGradient>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#footerBg)"/>
+
+  <g filter="url(#glow2)" stroke="#00eaff" fill="none" stroke-linecap="round">
+    <path d="M0,70 C150,40 300,100 450,70 C600,40 750,100 900,70 C1050,40 1200,100 1350,70" stroke-width="2" stroke-dasharray="10 12" opacity="0.45">
+      <animate attributeName="stroke-dashoffset" values="0;1000" dur="16s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,85 C120,60 240,110 360,85 C480,60 600,110 720,85 C840,60 960,110 1080,85 C1200,60 1320,110 1440,85" stroke-width="1.5" stroke-dasharray="8 10" opacity="0.3">
+      <animate attributeName="stroke-dashoffset" values="0;-800" dur="12s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
