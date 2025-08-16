@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+  <rect width="1200" height="120" fill="#01040a"/>
+  <rect x="0" y="84" width="1200" height="2" fill="#043842"/>
+
+  <defs>
+    <clipPath id="typeClip">
+      <rect id="typeRect" x="100" y="24" width="0" height="40"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#typeClip)" font-family="JetBrains Mono, Consolas, 'Courier New', monospace" font-size="22" fill="#00e5ff">
+    <text id="t1" x="100" y="56">Back-end Engineer</text>
+    <text id="t2" x="100" y="56">Make things work, then make them shine.</text>
+    <text id="t3" x="100" y="56">I continuously explore new ideas.</text>
+  </g>
+
+  <!-- caret -->
+  <rect id="caret" x="100" y="30" width="2" height="28" fill="#00e5ff"/>
+
+  <!-- typing window (3 phrases -> 9s loop) -->
+  <animate href="#typeRect" attributeName="width"
+           values="0;1000;1000;0;0;1000;1000;0;0;1000;1000;0"
+           keyTimes="0;0.144;0.222;0.333;0.333;0.477;0.555;0.666;0.666;0.811;0.889;1"
+           dur="9s" repeatCount="indefinite"/>
+
+  <!-- caret movement -->
+  <animate href="#caret" attributeName="x"
+           values="100;1100;1100;100;100;1100;1100;100;100;1100;1100;100"
+           keyTimes="0;0.144;0.222;0.333;0.333;0.477;0.555;0.666;0.666;0.811;0.889;1"
+           dur="9s" repeatCount="indefinite"/>
+  <animate href="#caret" attributeName="opacity" values="1;0;1;0;1;0;1" dur="0.9s" repeatCount="indefinite"/>
+
+  <!-- phrase switching via opacity (discrete) -->
+  <animate href="#t1" attributeName="opacity" values="1;1;0;0" keyTimes="0;0.333;0.333;1" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate href="#t2" attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.333;0.333;0.666;0.666;1" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate href="#t3" attributeName="opacity" values="0;0;0;0;1;1" keyTimes="0;0.666;0.666;0.999;0.999;1" dur="9s" calcMode="discrete" repeatCount="indefinite"/>
+
+  <circle cx="16" cy="92" r="3" fill="#00e5ff" opacity=".85"/>
+  <circle cx="1184" cy="92" r="3" fill="#00e5ff" opacity=".85"/>
+</svg>
