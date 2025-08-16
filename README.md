@@ -24,7 +24,7 @@
   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" height="48" title="Discord"/>
 </p>
 
-<h2 align="center">🧩 Sub Tech Stack</h2>
+<h2 align="center">🧪 Sub Tech Stack</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" title="Spring"/>
@@ -38,14 +38,13 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h2 align="center">📊 Stats</h2>
+<h2 align="center">📟 Stats</h2>
 <p align="center">
-  <!-- 깃허브 아이디로 변경하세요 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=persona7586&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&theme=tokyonight" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=persona7586&theme=tokyonight" width="49%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
