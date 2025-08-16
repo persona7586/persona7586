@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./header.svg" alt="Persona Development Studio — header">
+  <img src="./header.svg?v=2" alt="PERSONA DEVELOPMENT STUDIO — header"
+       width="100%" style="max-width:1200px; height:auto;">
 </p>
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
