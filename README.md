@@ -1,32 +1,65 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d2653,100:d4e8e6&height=120&text=Persona%20Code%20World&animation=twinkling&fontColor=c4cbe9&fontSize=70" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Back-end 장태문 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 저는 새로운 발상을 꾸준히 시도하는 개발자 입니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
-          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:persona7586@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:persona7586@gmail.com"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpersona7586%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=persona7586&bg_color=180,36667d,00000000&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&bg_color=180,36667d,00000000&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
-    
+<!-- TOP: Cyber-styled animated header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Persona's%20Development%20Studio&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=40&desc=Back-end%20Engineer%20%E2%9A%99%EF%B8%8F%20|%20Jang%20Tae-mun&descAlign=50&descAlignY=65" alt="header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&center=true&vCenter=true&width=600&lines=Back-end+Engineer+%F0%9F%94%AE;I+continuously+explore+new+ideas.;Make+things+work%2C+then+make+them+shine." alt="typing" />
+</p>
+
+<div align="center">
+  
+### 👋 Back-end 장태문
+저는 **새로운 발상을 꾸준히 시도하는 개발자** 입니다.  
+<sub>I'm a backend developer who consistently experiments with new ideas.</sub>
+
+<br/>
+
+## 🧪 Main Tech Stack
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,git,github,discord&theme=dark" alt="main stack" />
+
+## 🧩 Sub Tech Stack
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,react,js,html,css,jquery&theme=dark" alt="sub stack" />
+
+<br/>
+
+## 📬 Contact
+<a href="mailto:rhffkfk@naver.com">
+  <img src="https://img.shields.io/badge/Email-rhffkfk%40naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="email badge" />
+</a>
+
+<br/><br/>
+
+## 🧮 Stats
+<!-- Profile views -->
+<img src="https://komarev.com/ghpvc/?username=persona7586&label=Visitors&color=0aa3ff&style=for-the-badge" alt="views" />
+
+<!-- GitHub stats cards -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=persona7586&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+<!-- Top languages -->
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=persona7586&layout=compact&langs_count=8&theme=tokyonight" alt="top langs" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=persona7586&theme=algolia&no-bg=true&no-frame=true&column=8" alt="trophy" />
+</p>
+
+</div>
+
+<!-- BOTTOM: Cyber wave footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:24243e,50:302b63,100:0f0c29" alt="footer" />
+</p>
+
+<!--
+💡 Tips
+- 위 배너/타이핑/스탯은 다크(사이버) 테마로 설정되어 있습니다.
+- 사용자명이 다르면 'persona7586'를 본인 GitHub ID로 바꾸세요.
+- 더 강한 사이버 분위기를 원하면 theme=tokyonight → radical/merko 등으로 바꿔보세요.
+-->
