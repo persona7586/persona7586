@@ -49,11 +49,17 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h1 align="center">📬 Contact</h1>
+<h1 align="center">🛸 Contact</h1>
 <p align="center">
+  <!-- Naver (네온 그린) -->
   <a href="mailto:rhffkfk@naver.com">
-    <img alt="Naver Email"
-      src="https://img.shields.io/badge/N%20EMAIL-RHFFKFK%40NAVER.COM-03C75A?style=for-the-badge&labelColor=444444">
+    <img alt="Naver Mail"
+         src="https://img.shields.io/badge/NAVER%20MAIL-rhffkfk%40naver.com-00FFA3?style=for-the-badge&labelColor=0D1117&logo=naver&logoColor=white">
+  </a>
+  <!-- Discord 프로필로 바로 이동 (네온 시안) -->
+  <a href="https://discord.com/users/424558312907079711">
+    <img alt="Discord DM"
+         src="https://img.shields.io/badge/Discord-424558312907079711-7DF9FF?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=white">
   </a>
 </p>
 
