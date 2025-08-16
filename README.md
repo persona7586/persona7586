@@ -7,7 +7,7 @@
 
 <h1 align="center">🤖 About</h1>
 
-<h2 align="center"><b>Back-end Engineer 🌸 | Jang Tae-mun</b></h2>
+<h2 align="center"><b>Back-end Engineer 🪻 | Jang Tae-mun</b></h2>
 <h3 align="center">저는 새로운 발상을 꾸준히 시도하는 개발자 입니다.</h3>
 <p align="center">I'm a backend developer who consistently experiments with new ideas.</p>
 
@@ -52,17 +52,22 @@
 
 <h1 align="center">🛸 Contact</h1>
 <p align="center">
-  <!-- Naver (네온 그린) -->
+  <!-- NAVER -->
   <a href="mailto:rhffkfk@naver.com">
-    <img alt="Naver Mail"
-         src="https://img.shields.io/badge/NAVER%20MAIL-rhffkfk%40naver.com-00FFA3?style=for-the-badge&labelColor=0D1117&logo=naver&logoColor=white">
+    <img
+      alt="Naver : rhffkfk@naver.com"
+      src="https://img.shields.io/badge/NAVER-rhffkfk%40naver.com-14F195?style=flat-square&labelColor=0B1220&logo=naver&logoColor=ffffff"
+      style="border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(20,241,149,.45));">
   </a>
-  <!-- Discord 프로필로 바로 이동 (네온 시안) -->
+  <!-- DISCORD -->
   <a href="https://discord.com/users/424558312907079711">
-    <img alt="Discord DM"
-         src="https://img.shields.io/badge/Discord-424558312907079711-7DF9FF?style=for-the-badge&labelColor=0D1117&logo=discord&logoColor=white">
+    <img
+      alt="Discord : 424558312907079711"
+      src="https://img.shields.io/badge/Discord-424558312907079711-16E0F3?style=flat-square&labelColor=0B1220&logo=discord&logoColor=ffffff"
+      style="border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(22,224,243,.45));">
   </a>
 </p>
+
 
 <p align="center">
   <img src="./footer.svg" alt="footer">
