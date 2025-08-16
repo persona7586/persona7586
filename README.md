@@ -72,7 +72,3 @@
 <p align="center">
   <img src="./footer.svg" alt="footer">
 </p>
-
-
-[▶️ Corridor of Moonlight (작은 플레이어)](https://<USER>.github.io/<REPO>/)
-
