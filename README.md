@@ -5,7 +5,7 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h1 align="center">🤖 About</h1>
+<div align="center"><img src="./titles/about.svg" alt="About" height="56"></div>
 
 <h2 align="center"><b>Back-end Engineer 🪻 | Jang Tae-mun</b></h2>
 <h3 align="center">저는 새로운 발상을 꾸준히 시도하는 개발자 입니다.</h3>
@@ -13,7 +13,7 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h1 align="center">🧰 Main Tech Stack</h1>
+<div align="center"><img src="./titles/main-tech.svg" alt="Main Tech Stack" height="56"></div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="48" title="Django"/>
@@ -25,7 +25,7 @@
   <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" height="48" title="Discord"/>
 </p>
 
-<h1 align="center">🧪 Sub Tech Stack</h1>
+<div align="center"><img src="./titles/sub-tech.svg" alt="Sub Tech Stack" height="56"></div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" height="40" title="Spring"/>
@@ -39,7 +39,7 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h1 align="center">📟 Stats</h1>
+<div align="center"><img src="./titles/stats.svg" alt="Stats" height="56"></div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=persona7586&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=persona7586&theme=tokyonight" height="165">
@@ -50,7 +50,7 @@
 
 <p align="center"><img src="./divider.svg" width="100%" alt=""></p>
 
-<h1 align="center">🛸 Contact</h1>
+<div align="center"><img src="./titles/contact.svg" alt="Contact" height="56"></div>
 <p align="center">
   <!-- NAVER (bigger + darker green) -->
   <a href="mailto:rhffkfk@naver.com">
