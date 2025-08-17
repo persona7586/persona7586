@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feOffset dx="0" dy="1.5" result="off"/>
+      <feGaussianBlur in="off" stdDeviation="1.2" result="blur"/>
+      <feColorMatrix in="blur" type="matrix"
+        values="0 0 0 0 0.10  0 0 0 0 0.14  0 0 0 0 0.35  0 0 0 0.35 0" result="shadow"/>
+      <feBlend in="SourceGraphic" in2="shadow" mode="normal"/>
+    </filter>
+  </defs>
+  <style>
+    .title {
+      font-family: "Cooper Black","Comic Sans MS","Trebuchet MS","Arial Rounded MT Bold","Segoe UI", cursive;
+      font-weight: 900;
+      font-style: normal;
+      letter-spacing: 0.5px;
+      font-size: 64px;       /* BIGGER text (≈2.5x of before) */
+      fill: #2F3AAE;
+      stroke: #FFFFFF;
+      stroke-width: 5px;     /* slightly thinner to keep crisp at larger size */
+      paint-order: stroke fill;
+      dominant-baseline: central;
+    }
+  </style>
+  <text x="600" y="45" text-anchor="middle" class="title" filter="url(#softShadow)">🤖 About</text>
+</svg>
