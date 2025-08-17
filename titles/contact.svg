@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="56" viewBox="0 0 560 56">
+  <defs>
+    <linearGradient id="aquaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#A7F8FF"/>
+      <stop offset="100%" stop-color="#32D7F0"/>
+    </linearGradient>
+
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.8" result="blur1"/>
+      <feColorMatrix in="blur1" type="matrix"
+        values="0 0 0 0 0.08
+                0 0 0 0 0.88
+                0 0 0 0 0.96
+                0 0 0 1 0" result="glowCyan"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="1.0" result="blur2"/>
+      <feColorMatrix in="blur2" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.6 0" result="bloom"/>
+      <feMerge>
+        <feMergeNode in="glowCyan"/>
+        <feMergeNode in="bloom"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#FFFFFF" stop-opacity="0.0"/>
+    </linearGradient>
+
+    <style>
+      .t {
+        font-family: "Montserrat Black","Montserrat ExtraBold","Bahnschrift","Arial Black","Segoe UI",sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.64px;
+        font-size: 29px;
+        fill: url(#aquaGrad);
+        stroke: #0C6F84;
+        stroke-width: 1px;
+        paint-order: stroke fill;
+      }
+    </style>
+  </defs>
+
+  <text x="280" y="35" text-anchor="middle" class="t" filter="url(#neonGlow)">🛸 Contact</text>
+
+  <g style="mix-blend-mode:screen">
+    <text x="280" y="35" text-anchor="middle" class="t" fill="url(#gloss)" stroke="none">🛸 Contact</text>
+  </g>
+</svg>
