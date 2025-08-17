@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="56" viewBox="0 0 560 56">
+  <defs>
+    <!-- Base navy gradient (subtle) -->
+    <linearGradient id="baseGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#162A4B"/>
+      <stop offset="100%" stop-color="#0B1E3A"/>
+    </linearGradient>
+
+    <!-- Soft outer glow (much dimmer than cyan versions) -->
+    <filter id="navyGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.0" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="0 0 0 0 0.04
+                0 0 0 0 0.30
+                0 0 0 0 0.55
+                0 0 0 0.7 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Moving highlight for "light sweep" -->
+    <linearGradient id="highlightGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8BD4FF" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#8BD4FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#C7EBFF" stop-opacity="0.60"/>
+      <stop offset="55%" stop-color="#8BD4FF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8BD4FF" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      .t {
+        font-family: "Montserrat Black","Montserrat ExtraBold","Bahnschrift","Arial Black","Segoe UI",sans-serif;
+        font-weight: 900;
+        letter-spacing: 0.64px;
+        font-size: 29px;
+        fill: url(#baseGrad);
+        stroke: #07162C;            /* deep navy edge */
+        stroke-width: 1.1px;
+        paint-order: stroke fill;
+      }
+    </style>
+  </defs>
+
+  <!-- define text once for clipPath reuse -->
+  <text id="titleText" x="280" y="35" text-anchor="middle" class="t" filter="url(#navyGlow)">🧰 Main Tech Stack</text>
+
+  <!-- highlight sweep clipped to text -->
+  <clipPath id="clipText">
+    <use href="#titleText"/>
+  </clipPath>
+
+  <!-- Base text render -->
+  <use href="#titleText"/>
+
+  <!-- Animated highlight rectangle -->
+  <rect x="-560" y="0" width="1680" height="56" fill="url(#highlightGrad)" clip-path="url(#clipText)">
+    <animate attributeName="x" from="-560" to="560" dur="3.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
