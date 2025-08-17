@@ -52,19 +52,20 @@
 
 <h1 align="center">🛸 Contact</h1>
 <p align="center">
-  <!-- NAVER -->
+  <!-- NAVER (bigger + darker green) -->
   <a href="mailto:rhffkfk@naver.com">
     <img
       alt="Naver : rhffkfk@naver.com"
-      src="https://img.shields.io/badge/NAVER-rhffkfk%40naver.com-14F195?style=flat-square&labelColor=0B1220&logo=naver&logoColor=ffffff"
-      style="border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(20,241,149,.45));">
+      src="https://img.shields.io/badge/NAVER-rhffkfk%40naver.com-0DAF64?style=flat-square&labelColor=0B1220&logo=naver&logoColor=ffffff"
+      style="height:28px; border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(13,175,100,.45));">
   </a>
-  <!-- DISCORD -->
+
+  <!-- DISCORD (match size) -->
   <a href="https://discord.com/users/424558312907079711">
     <img
       alt="Discord : 424558312907079711"
       src="https://img.shields.io/badge/Discord-424558312907079711-16E0F3?style=flat-square&labelColor=0B1220&logo=discord&logoColor=ffffff"
-      style="border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(22,224,243,.45));">
+      style="height:28px; border-radius:12px; margin:4px; filter: drop-shadow(0 0 10px rgba(22,224,243,.45));">
   </a>
 </p>
 
